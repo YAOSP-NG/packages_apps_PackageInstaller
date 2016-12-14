@@ -22,6 +22,6 @@
 +    <string name="not_available">nem elérhető</string>
 +
 +    <!-- Body text for new tab when there are no permissions [CHAR LIMIT=NONE] -->
-+    <string name="no_perms">Az alkalmazás nem igényel engedéyeket.</string>
++    <string name="no_perms">Az alkalmazás nem igényel engedélyeket.</string>
 +
 +</resources>
